@@ -1,4 +1,8 @@
 # Topology-API
+## Main Features
+- Read and write topologies to and from disk.
+- Stores multiple topologies in memory.
+- Execute operations on topologies.
 
 ## Model Class Diagram
 
